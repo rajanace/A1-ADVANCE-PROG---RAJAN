@@ -1,0 +1,16 @@
+15
+1108,Lucia Flores,19,18,20,93
+1104,Ana Bautista,20,19,18,91
+1112,Elena Morales,18,19,17,88
+1111,Allen Dayrit,16,20,18,87
+1102,Maria Santos,18,17,19,85
+1110,Marta Castillo,17,16,15,80
+1106,Luz Ramirez,16,15,17,76
+1101,Juan Dela Cruz,15,14,16,78
+1114,Carmen Romero,16,14,15,74
+1107,Diego Cruz,14,13,15,69
+1115,Alberto Castillo,12,15,13,66
+1103,Jose Reyes,12,13,11,62
+1105,Pedro Mendoza,10,9,12,57
+1109,Pablo Villanueva,11,12,10,55
+1113,Javier Navarro,9,10,8,48
